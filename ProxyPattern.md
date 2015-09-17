@@ -70,4 +70,8 @@ namespace IVSR.DesignPattern.Proxy
         car = new ProxyCar(new Driver(25));
         car.DriveCar();
     }
-}```
+}
+```
+
+# UML диаграма
+[]https://en.wikipedia.org/wiki/Proxy_pattern
