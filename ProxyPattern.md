@@ -74,4 +74,4 @@ namespace IVSR.DesignPattern.Proxy
 ```
 
 # UML диаграма
-[](https://en.wikipedia.org/wiki/Proxy_pattern#/media/File:Proxy_pattern_diagram.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/7/75/Proxy_pattern_diagram.svg)
